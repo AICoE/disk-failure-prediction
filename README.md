@@ -1,5 +1,5 @@
-# BackBlaze
-This repo contains notebooks to download, preprocess and get started working with the [BackBlaze](https://www.backblaze.com/b2/hard-drive-test-data.html) data.
+# Backblaze
+This repo contains notebooks to download, preprocess and get started working with the [Backblaze](https://www.backblaze.com/b2/hard-drive-test-data.html) data.
 
 ### Overview:
 
@@ -7,7 +7,7 @@ In an effort to make a number of operational datasets more widely available and 
 
 ### Project Description:
 
-Although the Backblaze data has already been made available in its entirety [here](https://www.backblaze.com/b2/hard-drive-test-data.html), our goal is to provide a dataset with some basic preprocessing done to make it more manageable and easier to work with out of the gate. We hope to mirror the sentiment noted on Yann Lecun’s MNIST website and prepare the BackBlaze data in such a way that it is, “a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting”. 
+Although the Backblaze data has already been made available in its entirety [here](https://www.backblaze.com/b2/hard-drive-test-data.html), our goal is to provide a dataset with some basic preprocessing done to make it more manageable and easier to work with out of the gate. We hope to mirror the sentiment noted on Yann Lecun’s MNIST website and prepare the Backblaze data in such a way that it is, “a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting”. 
 
 In addition, we also define a specific problem that we would like the community to solve with this data set. Namely, **given the previous 6 days of data, accurately predict the value of SMART metric 1 ‘Read Error Rate’ for the following day**. 
 
@@ -72,9 +72,10 @@ In addition, we have divided the data into 3 separate csv files:
 To learn more about the specific features, please look [here](https://www.backblaze.com/b2/hard-drive-test-data.html) 
 
 # 
-Finally, as this work is based on data collected by BackBlaze I would like to cite them as the source of this data, as well as repost their requests around data usage below. And ask that anyone who uses or contributes to any of the work in this repo follow these same guidelines. 
+Finally, as this work is based on data collected by Backblaze I would like to cite them as the source of this data, as well as repost their requests around data usage below. And ask that anyone who uses or contributes to any of the work in this repo follow these same guidelines. 
 
-How You Can Use the Data
+**How You Can Use the Data**
+
 You can download and use this data for free for your own purpose, all we ask is three things 
 1) you cite Backblaze as the source if you use the data, 
 2) you accept that you are solely responsible for how you use the data
